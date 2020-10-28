@@ -1,0 +1,46 @@
+[[squashfs_tools]]
+arch = "aarch64"
+git-tree-sha1 = "78cf0c7da09d067a82c7ac566c5a24c0f18e6d72"
+libc = "glibc"
+os = "linux"
+
+    [[squashfs_tools.download]]
+    sha256 = "b0e2742e497ebdf8ccd5f7b75a6407689d1e4d819f458aa12dc2479dfb97b649"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.4.0+0/squashfs_tools.v4.4.0.aarch64-linux-gnu.tar.gz"
+[[squashfs_tools]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bf61ed5631b436b59eed25680b57d100b67789bc"
+libc = "glibc"
+os = "linux"
+
+    [[squashfs_tools.download]]
+    sha256 = "55f5c303db3814469376d9152596aea08bc93d4f5239d833661695166f98abe9"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.4.0+0/squashfs_tools.v4.4.0.armv7l-linux-gnueabihf.tar.gz"
+[[squashfs_tools]]
+arch = "i686"
+git-tree-sha1 = "e551ef3f505f3e2b91119434e10d0baaec8b33df"
+libc = "glibc"
+os = "linux"
+
+    [[squashfs_tools.download]]
+    sha256 = "79ef676e8ff8284f5320b78f795443ef5703009048ef8826c84f43973a0e4fed"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.4.0+0/squashfs_tools.v4.4.0.i686-linux-gnu.tar.gz"
+[[squashfs_tools]]
+arch = "powerpc64le"
+git-tree-sha1 = "f26260fd70182d706d31a350f5efde38949e7e96"
+libc = "glibc"
+os = "linux"
+
+    [[squashfs_tools.download]]
+    sha256 = "54e16bf90a197aa0fd279540156b33164ebdaa8dde593ba4d667f39c6efb98ce"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.4.0+0/squashfs_tools.v4.4.0.powerpc64le-linux-gnu.tar.gz"
+[[squashfs_tools]]
+arch = "x86_64"
+git-tree-sha1 = "7aa9cbb6791e7bca3f9abfccebc0b2295c795a0b"
+libc = "glibc"
+os = "linux"
+
+    [[squashfs_tools.download]]
+    sha256 = "696495bce5ec95dc6434ef8cb832fb50268ada79ee559e5404aa6e4b2a668fa2"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.4.0+0/squashfs_tools.v4.4.0.x86_64-linux-gnu.tar.gz"
