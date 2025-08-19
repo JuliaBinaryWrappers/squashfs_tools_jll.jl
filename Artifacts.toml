@@ -1,119 +1,144 @@
 [[squashfs_tools]]
 arch = "aarch64"
-git-tree-sha1 = "5ab9a268eeefc5ceb63944bc57af586031944330"
+git-tree-sha1 = "f59936964b519c952bb45f42f099eacc96b53a73"
 os = "macos"
 
     [[squashfs_tools.download]]
-    sha256 = "5819fad8c61e050a182084c872eb19aef3ec78fb576f43ebbfa29fceec470e07"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "f0a716f9ac6c0fe735ee93dcbdb0cf3e2f0402e9b01786d75d18dd8625a4d5ef"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.aarch64-apple-darwin.tar.gz"
 [[squashfs_tools]]
 arch = "aarch64"
-git-tree-sha1 = "b2459ca87f029ae350131dd85a5c4b31c83a52ce"
+git-tree-sha1 = "b3e5d41e51b8be9598f106ca8bcffd95b21637dc"
 libc = "glibc"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "bb7cd1f2276fd74833dc24444db3307975462992e886e838efaf908b695e6581"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "43b765a48991533d71f7c556c657bae1a3b05ddb0c7e73b256620d38c71a057a"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.aarch64-linux-gnu.tar.gz"
 [[squashfs_tools]]
 arch = "aarch64"
-git-tree-sha1 = "1a65635ab4944e68ef3a4561621ce2e5a53fe49d"
+git-tree-sha1 = "cd559da53a27eb4a114f33ee14ebf7002c6da8e3"
 libc = "musl"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "6eda2135ab5ada8dc65ece54774d528a2b7dd2597adb6af661b5ef1ce22b0a7d"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.aarch64-linux-musl.tar.gz"
+    sha256 = "b1b74b3b7af2f0fd7e0bdbe4163131aedaaa2e47b2fdfff5a66f4b54504589fc"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.aarch64-linux-musl.tar.gz"
+[[squashfs_tools]]
+arch = "aarch64"
+git-tree-sha1 = "209ec058685f934fef1354189d0adf8bfcf5c9f6"
+os = "freebsd"
+
+    [[squashfs_tools.download]]
+    sha256 = "5ac8aeb6886b723b016127ceddf1b9f54f50884ddc98bbf187db1d70e3fa9ffe"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.aarch64-unknown-freebsd.tar.gz"
 [[squashfs_tools]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "412aa2cb58e508e7c9520bdb2191dc606c8d1651"
+git-tree-sha1 = "d5ce5f2071a8fbebdc028f518c5a51538c357f8f"
 libc = "glibc"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "e8be2cb6c525dcb8344948c163bdee21136dd747c466b2dce4b4c5a8e70a0371"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "aaaf1283adf3ce5c59845fc5a0d6a8e132c736fce477bdbde857e41978c59f3a"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.armv6l-linux-gnueabihf.tar.gz"
 [[squashfs_tools]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "e700ee54ad1b0a5be1b5f663d8c20cf11a046081"
+git-tree-sha1 = "4db0e99a6a973f657757e6d80ded64bc8a5e31dd"
 libc = "musl"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "0d6dce52b41308d8b603b3024e6293fee412cd756e62e79aea022e0a8c0a92b2"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "6a42c3a2180cb6089e1ee962607b570ecb9b8e622b27f9b6055283b45def34a2"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.armv6l-linux-musleabihf.tar.gz"
 [[squashfs_tools]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "07cc826755d793b6046fbf4ffc3e46d4767a50de"
+git-tree-sha1 = "ecd0c358dc17703506bb76b040e7ca0168da310f"
 libc = "glibc"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "db9c794dabaa5cc3c47a9a93a642a56d79f09041816f67011de227f1779e5ca4"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4c63af64ef4956c06c2f2adadc78f2431200fe017432e664bcf1fa8cbfe28731"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.armv7l-linux-gnueabihf.tar.gz"
 [[squashfs_tools]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "34a3b72a8bea8be1dd4cf8368681efdc857a4c2e"
+git-tree-sha1 = "df92b301e05f9002ff9bde585000fbecce85fd8d"
 libc = "musl"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "3311e48ec5d93399c155cebd836fc01ae134da30c24614a1c54e3441816133a2"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "8e989f826e8d6811ce773f5594eed510b2664175ed38725ab5592d0c1fa6e6a8"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.armv7l-linux-musleabihf.tar.gz"
 [[squashfs_tools]]
 arch = "i686"
-git-tree-sha1 = "686a395d368e9d5e2612f22c6d943052631db2da"
+git-tree-sha1 = "1aec1ce263832731ad7e72d7c6f858836a8607da"
 libc = "glibc"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "a6b58da3f8beaf79228b8f0cb31ea33aeb6b1e95e62ce5a435b011eadc8fdc76"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.i686-linux-gnu.tar.gz"
+    sha256 = "081aaa687729c267cad75c95f755f1f87190dc9355fd1548252ea76f28c2b84d"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.i686-linux-gnu.tar.gz"
 [[squashfs_tools]]
 arch = "i686"
-git-tree-sha1 = "81d49d5930ccf8c89829d15dd2e2a5bd310cce22"
+git-tree-sha1 = "05c513fe687256dd7d9da59a08c877b61712bc20"
 libc = "musl"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "1bfe8a106c8b69b4941e9ef54c7c1ce55dd0c84e123e4144cc31c6b159a0f2c0"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.i686-linux-musl.tar.gz"
+    sha256 = "5934aa129809840712a3ff488ff6c5286b40266c70ec40a3ec7d9a7e6b7c1c91"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.i686-linux-musl.tar.gz"
 [[squashfs_tools]]
 arch = "powerpc64le"
-git-tree-sha1 = "9df2b8062549f3247bc45322ca1f8cf3cde33d4b"
+git-tree-sha1 = "a071dd5842fa8fb77796e1a7fdfbe1887a45a92a"
 libc = "glibc"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "1de5f5530a949faadf6ed329fe41ee70843ab99b7c1a23f45d4c8613a7927b1b"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "933d7527e9947b309d9c8a7cc091e9f280e26682d326c9d8d62ab604eb1ea07d"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.powerpc64le-linux-gnu.tar.gz"
+[[squashfs_tools]]
+arch = "riscv64"
+git-tree-sha1 = "27482f8250c61e59dade4900d3cceb8a82bf5e68"
+libc = "glibc"
+os = "linux"
+
+    [[squashfs_tools.download]]
+    sha256 = "c39f9614c65821de41899f0ba45aab99d634ca64dc3e17c9300eada0f89c934c"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.riscv64-linux-gnu.tar.gz"
 [[squashfs_tools]]
 arch = "x86_64"
-git-tree-sha1 = "77307c0d3fb50db8bfc02bde1fa03a206e5a7a6f"
+git-tree-sha1 = "7512d00e9a579e9967eabd941e40b7a28ce94f1e"
 os = "macos"
 
     [[squashfs_tools.download]]
-    sha256 = "6e9d7afd834798c5b04f3480037d6cf10893f20a198783bf0e102d4add32bf04"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "6cdb72d853acb094f3120fed71d666cb42f0145ce5cf4d4767101ee1b7dcb5c1"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.x86_64-apple-darwin.tar.gz"
 [[squashfs_tools]]
 arch = "x86_64"
-git-tree-sha1 = "95a4ab3f306ffc86012f3de2a3bc6cc207fdc235"
+git-tree-sha1 = "259d0447c108f3c86d7181efc086374a1c94a8a4"
 libc = "glibc"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "b161c6885b58542b05d7ef9121b453cce19d4bcaf08e66f14d0f0444f6e27af6"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "b1a2751d3ecf3f55a4b099eaa3cc5a23631cde087f5c30017809394717da2bfe"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.x86_64-linux-gnu.tar.gz"
 [[squashfs_tools]]
 arch = "x86_64"
-git-tree-sha1 = "72a710448e61efee96fb177db1495a710183991d"
+git-tree-sha1 = "ca02998d8e2d0c4be98b9cf8b463c559a8e6b9ff"
 libc = "musl"
 os = "linux"
 
     [[squashfs_tools.download]]
-    sha256 = "bcbd9150fb1f00308c32772e9cd42209e29fcb2ae2df4769a6f0a309f8576ca1"
-    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.6.1+1/squashfs_tools.v4.6.1.x86_64-linux-musl.tar.gz"
+    sha256 = "5157c1f0073143ea41d693880832b4aed2945cfc3595ce09d5152b7de14ef042"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.x86_64-linux-musl.tar.gz"
+[[squashfs_tools]]
+arch = "x86_64"
+git-tree-sha1 = "d4f94b5706f4ea7a18165899c84ec7f56524665a"
+os = "freebsd"
+
+    [[squashfs_tools.download]]
+    sha256 = "75a06b263979e9cf823a998786faa090d5aba2fbf55ce624f8d4557483ca984d"
+    url = "https://github.com/JuliaBinaryWrappers/squashfs_tools_jll.jl/releases/download/squashfs_tools-v4.7.2+0/squashfs_tools.v4.7.2.x86_64-unknown-freebsd.tar.gz"

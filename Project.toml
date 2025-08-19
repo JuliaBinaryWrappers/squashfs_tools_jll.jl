@@ -1,6 +1,6 @@
 name = "squashfs_tools_jll"
 uuid = "eed32e3e-a7c5-5bf9-9121-5cf3ab653887"
-version = "4.6.1+1"
+version = "4.7.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,7 +13,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 Zstd_jll = "3161d3a3-bdf6-5164-811a-617609db77b4"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-Libdl = "1"
-Artifacts = "1"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
