@@ -1,6 +1,6 @@
 name = "squashfs_tools_jll"
 uuid = "eed32e3e-a7c5-5bf9-9121-5cf3ab653887"
-version = "4.7.2+0"
+version = "4.7.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
